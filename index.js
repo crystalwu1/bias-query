@@ -29,8 +29,9 @@ async function getMemberData(pageId) {
         // console.log(relationPageIds)
         let relations = []
         for await (const x of relationPageIds) {
-          const propertyName = await notion.pages.properties.retrieve({ page_id: x, property_id: "title" });
-          relations.push(propertyName.results[0].title.plain_text)
+          // const propertyName = await notion.pages.properties.retrieve({ page_id: x, property_id: "title" });
+          // relations.push(propertyName.results[0].title.plain_text)
+          relations.push(x)
         };
         attributes[propertyName] = relations
     }
@@ -46,9 +47,15 @@ async function getMembers() {
     filter: {
       property: 'name',
       rich_text: {
-        equals: 'Doyoung'
+        is_not_empty: true
       }
-    }
+    },
+    filter: {
+      property: 'birthday',
+      date: {
+        is_not_empty: true
+      }
+    },
   });
 
   let membersJSON = {}

@@ -1,57 +1,2840 @@
 {
-  "d59580a3-4065-4fd4-a152-7303da7b5023": {
+  "672962bb-cb5f-4f41-a99a-80d3f0cb6af1": {
     "group": [
-      "NCT 127"
+      "d2526667-3086-44bb-b8be-24d2b70f097a"
     ],
-    "birthday": "1996-02-01",
+    "birthday": "1994-08-17",
     "blood type": [
-      "B"
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "5c581c56-4f0c-44e5-bd54-19642c8e04aa"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "진용훈",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 184,
+    "military": "serving",
+    "mbti": [
+      "6e35f934-f9ca-4b42-86d8-56ef42b3d5aa"
+    ],
+    "position": [
+      "2566bc25-4928-4d74-86b8-152c4608d528",
+      "69f972c6-ff70-4056-b8a0-c1be7e9882b5",
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Yonghoon"
+  },
+  "76225e6d-cab9-4a5b-8048-293d3c2379b1": {
+    "group": [
+      "b548fae0-3c64-461c-97d8-87913ffcc875"
+    ],
+    "birthday": "1999-09-13",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "최연준",
+    "role": [],
+    "height": 181.5,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af",
+      "5d34ff22-1b67-4946-b905-087e48dc4765",
+      "99e3d24f-190f-456d-a4af-245729d3f0b6"
+    ],
+    "bias": null,
+    "name": "Yeonjun"
+  },
+  "1866c7df-e1d8-4802-8ad2-7df7ec2ba8c5": {
+    "group": [
+      "d50cc919-99c5-4f6e-8caf-78c0bf24bfe5"
+    ],
+    "birthday": "1991-06-06",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "2ab9ad10-03c6-4d16-817a-364eb8febf8c"
+    ],
+    "hyung": [],
+    "real name": "손동운",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 181,
+    "military": "served",
+    "mbti": [],
+    "position": [
+      "b82e7b29-9890-41d5-8739-892351ef935e",
+      "5d34ff22-1b67-4946-b905-087e48dc4765"
+    ],
+    "bias": null,
+    "name": "Dongwoon"
+  },
+  "8b2b3563-7a7b-4a3b-bc64-061701662e97": {
+    "group": [
+      "437f6a35-dbb3-4b04-b8c5-b18e0e3473dd"
+    ],
+    "birthday": "1995-02-06",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "2cdfd6bc-1f01-40c1-b8f2-81d24734768e"
+    ],
+    "hyung": [],
+    "real name": "문종업)",
+    "role": [],
+    "height": 174,
+    "military": null,
+    "mbti": [],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "b82e7b29-9890-41d5-8739-892351ef935e"
+    ],
+    "bias": null,
+    "name": "Jongup"
+  },
+  "d952cedd-29cf-49ab-a835-e471d04a2503": {
+    "group": [
+      "283e08dd-80f0-4814-9982-f537d9a3067c"
+    ],
+    "birthday": "1997-12-31",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [],
+    "real name": "강유찬",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 177,
+    "military": "serving",
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Chan"
+  },
+  "fc4e3fc1-a448-47da-9925-132439f234c3": {
+    "group": [
+      "e67cc6ea-bcb8-4a0a-a6d5-3ebaa257142e"
+    ],
+    "birthday": "2002-02-05",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "2cdfd6bc-1f01-40c1-b8f2-81d24734768e"
+    ],
+    "hyung": [],
+    "real name": "박지성",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 180,
+    "military": null,
+    "mbti": [
+      "0c0b11fb-eaed-489f-91cd-2c2e71611832"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167",
+      "b20eda2a-9f83-4684-8a0e-b737cdb23510"
+    ],
+    "bias": null,
+    "name": "Jisung"
+  },
+  "380b97b1-651c-4b42-8018-a065e1db8904": {
+    "group": [
+      "b3760591-f87e-4322-909a-2700d70f3bed"
+    ],
+    "birthday": "2004-08-23",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [],
+    "real name": "김지성",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 179,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Jiseong"
+  },
+  "cee1c451-4583-4cbe-ab72-1b7d7c75e03e": {
+    "group": [
+      "ff50caef-6478-46a9-9ef5-5c2179b9af98"
+    ],
+    "birthday": "1987-06-21",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
     ],
     "kprofiles": 8,
     "zodiac": [
-      "Aquarius"
+      "2ab9ad10-03c6-4d16-817a-364eb8febf8c"
+    ],
+    "hyung": [],
+    "real name": "김려욱",
+    "role": [],
+    "height": 170,
+    "military": "served",
+    "mbti": [],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Ryeowook"
+  },
+  "d9a35ba7-64b4-487d-ae9f-bc6df1eba9f8": {
+    "group": [
+      "b548fae0-3c64-461c-97d8-87913ffcc875"
+    ],
+    "birthday": "2001-03-13",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [],
+    "real name": "최범규",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 180,
+    "military": null,
+    "mbti": [
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af",
+      "5d34ff22-1b67-4946-b905-087e48dc4765",
+      "99e3d24f-190f-456d-a4af-245729d3f0b6",
+      "ddad7c9f-ea35-436f-8d62-26493a14a4db"
+    ],
+    "bias": null,
+    "name": "Beomgyu"
+  },
+  "04da5a25-4390-4bb7-af04-58a231b10c09": {
+    "group": [
+      "7e642b66-5ecf-4bdb-b97a-16a7381318ba"
+    ],
+    "birthday": "1997-02-28",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [],
+    "real name": "유태양",
+    "role": [],
+    "height": 181,
+    "military": null,
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Yoo Taeyang"
+  },
+  "6986988a-4d20-47b0-80bd-5607343873a7": {
+    "group": [
+      "78dd5722-3bdb-4596-b749-a2d44bf39bfa"
+    ],
+    "birthday": "2001-10-07",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "e38725e0-dd49-4d86-88ba-70ebd535719c"
     ],
     "hyung": [
-      "Hyung"
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "최지웅",
+    "role": [],
+    "height": 178,
+    "military": null,
+    "mbti": [
+      "4e738a36-d112-47b7-b676-e46135ba60cd"
+    ],
+    "position": [
+      "5d34ff22-1b67-4946-b905-087e48dc4765",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af",
+      "99e3d24f-190f-456d-a4af-245729d3f0b6"
+    ],
+    "bias": "not by much",
+    "name": "Jiung"
+  },
+  "beb7fc86-186b-4941-a3b2-e6716dbf331f": {
+    "group": [
+      "67fc0e18-6d7d-455d-9834-0e053d1fb0f6"
+    ],
+    "birthday": "1988-12-27",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "옥택연",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 185.7,
+    "military": "served",
+    "mbti": [],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Taecyeon"
+  },
+  "2486f82a-37a9-4131-9fc7-ef3e0497a404": {
+    "group": [
+      "e67cc6ea-bcb8-4a0a-a6d5-3ebaa257142e"
+    ],
+    "birthday": "2001-11-22",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "72e4ef79-42f9-4e87-b92b-cabdef14f564"
+    ],
+    "hyung": [],
+    "real name": "钟辰乐",
+    "role": [],
+    "height": 176,
+    "military": "foreign",
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Chenle"
+  },
+  "bb21299b-aab1-494f-be0d-6c6bf8373394": {
+    "group": [
+      "fd67aac4-fc8a-4cf4-b18e-b636cf9c0785",
+      "7cc4599a-979f-4597-b0a0-9db3cb203f0f"
+    ],
+    "birthday": "1999-01-25",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "2cdfd6bc-1f01-40c1-b8f2-81d24734768e"
+    ],
+    "hyung": [],
+    "real name": "黃旭熙",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 183,
+    "military": "foreign",
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "b7742fb9-6b0f-48b0-be2f-2170d968ecf6",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167",
+      "ddad7c9f-ea35-436f-8d62-26493a14a4db"
+    ],
+    "bias": null,
+    "name": "Lucas"
+  },
+  "08951d75-a4cf-42d1-b037-60bd522bf827": {
+    "group": [
+      "b0bfe987-aa18-416a-a506-34df58781019"
+    ],
+    "birthday": "1998-01-16",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 13,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [],
+    "real name": "부승관",
+    "role": [
+      "9948f23c-b408-44e9-bf52-57d906c80694"
+    ],
+    "height": 174,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Seungkwan"
+  },
+  "6eb55d47-e99f-4e84-be7b-1aeed1bd19d7": {
+    "group": [
+      "13699531-c1d1-41a4-a820-e885e951af9e"
+    ],
+    "birthday": "1995-11-16",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "72e4ef79-42f9-4e87-b92b-cabdef14f564"
+    ],
+    "hyung": [],
+    "real name": "박민균",
+    "role": [],
+    "height": 178,
+    "military": "serving",
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "b82e7b29-9890-41d5-8739-892351ef935e",
+      "b20eda2a-9f83-4684-8a0e-b737cdb23510"
+    ],
+    "bias": null,
+    "name": "MK"
+  },
+  "c2bbe730-febd-4e9a-9df2-80c5ae3010b7": {
+    "group": [
+      "d2526667-3086-44bb-b8be-24d2b70f097a"
+    ],
+    "birthday": "2000-01-10",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [],
+    "real name": "손동명",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 173,
+    "military": null,
+    "mbti": [
+      "75f375a4-8a74-4b6d-92fd-135642b6b569"
+    ],
+    "position": [
+      "69f972c6-ff70-4056-b8a0-c1be7e9882b5",
+      "b82e7b29-9890-41d5-8739-892351ef935e"
+    ],
+    "bias": null,
+    "name": "Dongmyeong"
+  },
+  "5238bcb2-6945-4db3-b30f-413c00e35e2a": {
+    "group": [
+      "4bcaf8c6-1878-41f1-8a3f-6854b95c2cfe"
+    ],
+    "birthday": "2000-03-12",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [],
+    "real name": "윤산하",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 185,
+    "military": null,
+    "mbti": [
+      "75f375a4-8a74-4b6d-92fd-135642b6b569"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Sanha"
+  },
+  "a91730fa-7501-4b32-bff1-84f20c6e5b7f": {
+    "group": [
+      "f4204fad-12a6-44c6-917d-3b56a7831a69"
+    ],
+    "birthday": "2000-01-10",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [],
+    "real name": "손동주",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c",
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 173,
+    "military": null,
+    "mbti": [
+      "75f375a4-8a74-4b6d-92fd-135642b6b569"
+    ],
+    "position": [
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Xion"
+  },
+  "ca3d90a3-2db7-49ee-b482-d2886501c257": {
+    "group": [
+      "4b61965a-35e6-4d76-b38f-d22b26983008"
+    ],
+    "birthday": "1998-01-15",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [],
+    "real name": "이주연",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 181,
+    "military": null,
+    "mbti": [
+      "ae5ec51d-66ce-4e25-8b42-b09d70b8cb05"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Juyeon"
+  },
+  "49881943-33db-4d7a-a7ef-66c8d2e49a52": {
+    "group": [
+      "7e642b66-5ecf-4bdb-b97a-16a7381318ba"
+    ],
+    "birthday": "1996-07-04",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "c3f22ad2-c919-4c1f-a92c-20451b908710"
+    ],
+    "hyung": [],
+    "real name": "백주호",
+    "role": [],
+    "height": 185,
+    "military": null,
+    "mbti": [
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf"
+    ],
+    "bias": "bias",
+    "name": "Zuho"
+  },
+  "59c2feb1-5d35-4f1b-b02a-e20f629c41bd": {
+    "group": [
+      "914069a3-a8fb-4bf8-b77a-5adfc8faed56"
+    ],
+    "birthday": "2004-02-01",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [],
+    "real name": "한해리준",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 179,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "99e3d24f-190f-456d-a4af-245729d3f0b6",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Harry June"
+  },
+  "8a2a9c49-f7d6-46ec-a940-37ab1564ae83": {
+    "group": [
+      "b0bfe987-aa18-416a-a506-34df58781019"
+    ],
+    "birthday": "1996-07-17",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "c3f22ad2-c919-4c1f-a92c-20451b908710"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "전원우",
+    "role": [],
+    "height": 182,
+    "military": null,
+    "mbti": [
+      "0c0b11fb-eaed-489f-91cd-2c2e71611832"
+    ],
+    "position": [
+      "b7742fb9-6b0f-48b0-be2f-2170d968ecf6",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Wonwoo"
+  },
+  "5b89b2af-e7a7-4f97-9aad-b7c64f5d9086": {
+    "group": [
+      "e67cc6ea-bcb8-4a0a-a6d5-3ebaa257142e"
+    ],
+    "birthday": "2000-03-23",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "黄仁俊",
+    "role": [],
+    "height": 171,
+    "military": "foreign",
+    "mbti": [],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3",
+      "573e9b7c-a23c-4ddf-9fe9-81290c4c4063"
+    ],
+    "bias": null,
+    "name": "Renjun"
+  },
+  "8bc34f1f-650c-418f-b3bc-8709fe52fbfd": {
+    "group": [
+      "f4204fad-12a6-44c6-917d-3b56a7831a69"
+    ],
+    "birthday": "1998-06-27",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "c3f22ad2-c919-4c1f-a92c-20451b908710"
+    ],
+    "hyung": [],
+    "real name": "이건희",
+    "role": [],
+    "height": 181,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Keonhee"
+  },
+  "69d9a4bd-fd7c-4235-8be1-d52a7f304666": {
+    "group": [
+      "d2526667-3086-44bb-b8be-24d2b70f097a"
+    ],
+    "birthday": "1998-11-24",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "f1c03d5f-bc07-4d9d-a253-22575f5007b1"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "강현구",
+    "role": [],
+    "height": 176,
+    "military": "serving",
+    "mbti": [
+      "0c0b11fb-eaed-489f-91cd-2c2e71611832"
+    ],
+    "position": [
+      "2566bc25-4928-4d74-86b8-152c4608d528"
+    ],
+    "bias": "just face",
+    "name": "Kanghyun"
+  },
+  "f009ee0a-7c59-43d9-9ea1-67fb58d85570": {
+    "group": [
+      "f5e63955-a820-42bc-b98b-f7310fd09ba0"
+    ],
+    "birthday": "2001-02-27",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [],
+    "real name": "최병섭",
+    "role": [],
+    "height": 187,
+    "military": null,
+    "mbti": [
+      "3472a508-36f9-402a-a6d4-ea16642cd529"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Eunchan"
+  },
+  "ffdfc874-6989-4a1d-8f45-7ec5b235d690": {
+    "group": [
+      "a0584d0e-f025-47b0-a477-654c4164f3d5"
+    ],
+    "birthday": "1991-12-09",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "f1c03d5f-bc07-4d9d-a253-22575f5007b1"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "최민호",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 181,
+    "military": "served",
+    "mbti": [],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Minho"
+  },
+  "156713ce-4fbd-4d8d-b780-467267cc7253": {
+    "group": [
+      "67fc0e18-6d7d-455d-9834-0e053d1fb0f6"
+    ],
+    "birthday": "1988-01-15",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "김민준",
+    "role": [],
+    "height": 180,
+    "military": "served",
+    "mbti": [
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": "barely decide",
+    "name": "Jun K."
+  },
+  "df40e608-b356-4501-8e6d-91e5c1cabd29": {
+    "group": [
+      "c78dd720-c3c1-442a-afb3-ed152639c149"
+    ],
+    "birthday": "2001-04-08",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [],
+    "real name": "양동식",
+    "role": [],
+    "height": 177,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Louis"
+  },
+  "e5f49361-5f2e-482b-88e7-c5a5bd18a56a": {
+    "group": [
+      "153405ff-c0e4-4f8d-98ec-b561353e735c"
+    ],
+    "birthday": "1999-06-15",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "2ab9ad10-03c6-4d16-817a-364eb8febf8c"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "강여상",
+    "role": [],
+    "height": 174,
+    "military": null,
+    "mbti": [
+      "3e854884-42a2-4662-8995-dd03b84105ca"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af",
+      "99e3d24f-190f-456d-a4af-245729d3f0b6"
+    ],
+    "bias": null,
+    "name": "Yeosang"
+  },
+  "4e8f6d1a-3746-4c39-90d4-8928233a927e": {
+    "group": [],
+    "birthday": "2003-10-02",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": null,
+    "zodiac": [
+      "e38725e0-dd49-4d86-88ba-70ebd535719c"
+    ],
+    "hyung": [],
+    "real name": "홍승한",
+    "role": [],
+    "height": 179,
+    "military": null,
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [],
+    "bias": null,
+    "name": "Seunghan"
+  },
+  "b021848d-89f3-4119-ab54-3ca94e5cc502": {
+    "group": [
+      "ba29fee0-d638-4cba-8981-d9a3921a4910"
+    ],
+    "birthday": "2002-08-18",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "5c581c56-4f0c-44e5-bd54-19642c8e04aa"
+    ],
+    "hyung": [],
+    "real name": "한형준",
+    "role": [],
+    "height": null,
+    "military": null,
+    "mbti": [
+      "4e738a36-d112-47b7-b676-e46135ba60cd"
+    ],
+    "position": [
+      "2566bc25-4928-4d74-86b8-152c4608d528",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Jun Han"
+  },
+  "d59580a3-4065-4fd4-a152-7303da7b5023": {
+    "group": [
+      "52cd86d0-057d-4f42-8158-9e57377b5830"
+    ],
+    "birthday": "1996-02-01",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 8,
+    "zodiac": [
+      "2cdfd6bc-1f01-40c1-b8f2-81d24734768e"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
     ],
     "real name": "김동영",
     "role": [],
     "height": 178,
     "military": null,
     "mbti": [
-      "ISFJ"
+      "3e854884-42a2-4662-8995-dd03b84105ca"
     ],
     "position": [
-      "Main Vocal"
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
     ],
     "bias": "bias",
     "name": "Doyoung"
   },
-  "e7cc6bdd-ba89-45ae-990a-41c633ea7c7c": {
+  "f955a9cb-d9ca-449a-bc55-d77df19dbd7e": {
     "group": [
-      "TREASURE"
+      "277ed537-59ee-472e-b6f8-0d34c01711ec"
     ],
-    "birthday": "2003-12-04",
+    "birthday": "1999-03-30",
     "blood type": [
-      "B"
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "마수일",
+    "role": [],
+    "height": 170,
+    "military": null,
+    "mbti": [],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "5d34ff22-1b67-4946-b905-087e48dc4765",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Suil"
+  },
+  "83c0e22d-9f3f-47b0-848f-ab1225e5b282": {
+    "group": [
+      "72731673-b925-460d-8c39-e5b9cdf4231f"
+    ],
+    "birthday": "1992-01-11",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "이승훈",
+    "role": [],
+    "height": 185,
+    "military": "served",
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "b7742fb9-6b0f-48b0-be2f-2170d968ecf6",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": "not by much",
+    "name": "Hoony"
+  },
+  "abac094a-c033-43cd-a870-b61c637706b6": {
+    "group": [
+      "98dcf69e-b65d-478d-9c12-829d501d04fd"
+    ],
+    "birthday": "1991-08-27",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [],
+    "real name": "이성열",
+    "role": [],
+    "height": 183,
+    "military": "served",
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af",
+      "b7742fb9-6b0f-48b0-be2f-2170d968ecf6"
+    ],
+    "bias": null,
+    "name": "Sungyeol"
+  },
+  "7ff03a4f-68a8-418b-a09e-76efa57d37d6": {
+    "group": [
+      "78dd5722-3bdb-4596-b749-a2d44bf39bfa"
+    ],
+    "birthday": "2005-11-19",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "72e4ef79-42f9-4e87-b92b-cabdef14f564"
+    ],
+    "hyung": [],
+    "real name": "김종섭",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 175,
+    "military": null,
+    "mbti": [
+      "4e738a36-d112-47b7-b676-e46135ba60cd"
+    ],
+    "position": [
+      "5d34ff22-1b67-4946-b905-087e48dc4765",
+      "99e3d24f-190f-456d-a4af-245729d3f0b6"
+    ],
+    "bias": null,
+    "name": "Jongseob"
+  },
+  "ae032fa4-7df6-434b-811a-ac14172049b6": {
+    "group": [
+      "72b95016-d773-4d6a-a3e4-70a1700cba53"
+    ],
+    "birthday": "1993-11-22",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "72e4ef79-42f9-4e87-b92b-cabdef14f564"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "유기현",
+    "role": [],
+    "height": 175,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": "not by much",
+    "name": "Kihyun"
+  },
+  "b42d73bd-342b-4eb8-ba71-2fb706725c66": {
+    "group": [
+      "13699531-c1d1-41a4-a820-e885e951af9e"
+    ],
+    "birthday": "1994-04-22",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 1,
+    "zodiac": [
+      "76994745-7cc2-409f-834a-27a61c94fe74"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "김효진",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 172.8,
+    "military": "serving",
+    "mbti": [
+      "75f375a4-8a74-4b6d-92fd-135642b6b569"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Hyojin"
+  },
+  "d3b5b3c5-a086-48eb-bada-56a981ff06e8": {
+    "group": [
+      "55262042-346d-4cf9-9b28-0eea23319016"
+    ],
+    "birthday": "1998-01-27",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "2cdfd6bc-1f01-40c1-b8f2-81d24734768e"
+    ],
+    "hyung": [],
+    "real name": "강형구",
+    "role": [
+      "9948f23c-b408-44e9-bf52-57d906c80694"
+    ],
+    "height": 177,
+    "military": null,
+    "mbti": [],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167",
+      "b20eda2a-9f83-4684-8a0e-b737cdb23510"
+    ],
+    "bias": null,
+    "name": "Kino"
+  },
+  "166213b1-66b6-4867-a10d-3aac2b7f0d31": {
+    "group": [
+      "490c84b9-cddb-4551-a580-250ac156bcb7"
+    ],
+    "birthday": "2000-03-20",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 1,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [],
+    "real name": "황현진",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 179,
+    "military": null,
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "5d34ff22-1b67-4946-b905-087e48dc4765",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Hyunjin"
+  },
+  "e6e086de-081a-4ca6-af61-588a61757086": {
+    "group": [
+      "4bcaf8c6-1878-41f1-8a3f-6854b95c2cfe"
+    ],
+    "birthday": "1994-03-05",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654",
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c"
+    ],
+    "real name": "김명준",
+    "role": [],
+    "height": 175,
+    "military": "serving",
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "MJ"
+  },
+  "3a16db42-0248-4506-9b02-285416db1479": {
+    "group": [
+      "d1752111-32d0-4bf5-95ad-609fc25a564f"
+    ],
+    "birthday": "1995-08-07",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 1,
+    "zodiac": [
+      "5c581c56-4f0c-44e5-bd54-19642c8e04aa"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "이원서",
+    "role": [],
+    "height": 180,
+    "military": null,
+    "mbti": [
+      "ae5ec51d-66ce-4e25-8b42-b09d70b8cb05"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Gon"
+  },
+  "3f9651df-db64-4dba-afcd-a119e14f848a": {
+    "group": [
+      "3a651b17-ae8b-42f7-b09b-6d32eac244a2"
+    ],
+    "birthday": "1995-04-16",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "강승식",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 180,
+    "military": "serving",
+    "mbti": [
+      "3e854884-42a2-4662-8995-dd03b84105ca"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Seungsik"
+  },
+  "e1f12b4f-c9e4-4783-97c6-0291fe8be1cc": {
+    "group": [
+      "75535965-1fee-447c-bd3d-1f851b4aaec8"
+    ],
+    "birthday": "1995-07-31",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "5c581c56-4f0c-44e5-bd54-19642c8e04aa"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "최성윤",
+    "role": [],
+    "height": 177,
+    "military": "serving",
+    "mbti": [
+      "6e35f934-f9ca-4b42-86d8-56ef42b3d5aa"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Y"
+  },
+  "26a04aa2-f9de-44ed-bdc2-0463f1627110": {
+    "group": [
+      "490c84b9-cddb-4551-a580-250ac156bcb7"
+    ],
+    "birthday": "2000-09-15",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [],
+    "real name": "Felix Lee",
+    "role": [],
+    "height": 171,
+    "military": "foreign",
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "5d34ff22-1b67-4946-b905-087e48dc4765",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Felix"
+  },
+  "5884283b-6897-4554-a82d-c5d1fc27e90e": {
+    "group": [
+      "06d2534f-1cec-40c9-b33c-7538493a64f2"
+    ],
+    "birthday": "1999-02-26",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "김승훈",
+    "role": [],
+    "height": 181,
+    "military": null,
+    "mbti": [
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b",
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3",
+      "99e3d24f-190f-456d-a4af-245729d3f0b6"
+    ],
+    "bias": "just face",
+    "name": "Seunghun"
+  },
+  "fd8c178e-5810-4258-9fb7-d277c1c3cdd9": {
+    "group": [
+      "e3534330-3b4f-498c-b8d9-c41b57a101b0"
+    ],
+    "birthday": "2001-08-20",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "5c581c56-4f0c-44e5-bd54-19642c8e04aa"
+    ],
+    "hyung": [],
+    "real name": "浜田朝光",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 173,
+    "military": "foreign",
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Asahi"
+  },
+  "2b69c00d-4599-4975-8e98-651c4409c0d8": {
+    "group": [],
+    "birthday": "1996-12-16",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": null,
+    "zodiac": [
+      "f1c03d5f-bc07-4d9d-a253-22575f5007b1"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "松島正平",
+    "role": [],
+    "height": 181,
+    "military": "foreign",
+    "mbti": [
+      "3e854884-42a2-4662-8995-dd03b84105ca"
+    ],
+    "position": [],
+    "bias": null,
+    "name": "Shohei"
+  },
+  "59f382a3-bab3-49f0-b17c-e434dc7cf29f": {
+    "group": [
+      "e3534330-3b4f-498c-b8d9-c41b57a101b0"
+    ],
+    "birthday": "2004-04-05",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 1,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [],
+    "real name": "渡辺春虎",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 185,
+    "military": "foreign",
+    "mbti": [
+      "8a67413f-4087-4ef0-8795-6c6b5f2a5691"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf"
+    ],
+    "bias": null,
+    "name": "Haruto"
+  },
+  "d73767f5-fd17-4656-9e88-0fa1de2654a8": {
+    "group": [
+      "4bcaf8c6-1878-41f1-8a3f-6854b95c2cfe"
+    ],
+    "birthday": "1997-03-30",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 1,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "이동민",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193",
+      "9948f23c-b408-44e9-bf52-57d906c80694"
+    ],
+    "height": 183,
+    "military": null,
+    "mbti": [
+      "0c0b11fb-eaed-489f-91cd-2c2e71611832"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Cha Eunwoo"
+  },
+  "f19f5071-50eb-4423-8072-d0d05ec81a2d": {
+    "group": [
+      "3a651b17-ae8b-42f7-b09b-6d32eac244a2"
+    ],
+    "birthday": "1996-05-04",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "76994745-7cc2-409f-834a-27a61c94fe74"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "임세준",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193",
+      "9948f23c-b408-44e9-bf52-57d906c80694"
+    ],
+    "height": 180,
+    "military": null,
+    "mbti": [
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b"
+    ],
+    "position": [
+      "b82e7b29-9890-41d5-8739-892351ef935e"
+    ],
+    "bias": null,
+    "name": "Sejun"
+  },
+  "a574ff8d-6553-4503-8226-cb4251dd5aa9": {
+    "group": [
+      "e3534330-3b4f-498c-b8d9-c41b57a101b0"
+    ],
+    "birthday": "2004-09-28",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "e38725e0-dd49-4d86-88ba-70ebd535719c"
+    ],
+    "hyung": [],
+    "real name": "박정우",
+    "role": [],
+    "height": 180.4,
+    "military": null,
+    "mbti": [
+      "8a67413f-4087-4ef0-8795-6c6b5f2a5691"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": "not by much",
+    "name": "Jeongwoo"
+  },
+  "ac3fdc07-a7fa-467a-9f15-fa78beb0d133": {
+    "group": [
+      "be682246-55ce-4078-91f5-c22e8ea2b737"
+    ],
+    "birthday": "2003-01-27",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "2cdfd6bc-1f01-40c1-b8f2-81d24734768e"
+    ],
+    "hyung": [],
+    "real name": "김태영",
+    "role": [],
+    "height": 178,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Taeyoung"
+  },
+  "d61ce94d-5955-4abc-ac55-e3e7a49ed094": {
+    "group": [
+      "82e7765a-2648-4cb7-8459-c53250d50e9d"
+    ],
+    "birthday": "1995-08-25",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [],
+    "real name": "윤도운",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 177,
+    "military": "serving",
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "38d65be9-1e6a-4f42-8e6e-0c5e4a9ce3b6",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Dowoon"
+  },
+  "483500b6-e1e8-49d2-a1e4-4b75e9ab63cd": {
+    "group": [
+      "f4204fad-12a6-44c6-917d-3b56a7831a69"
+    ],
+    "birthday": "1995-09-02",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "김영조",
+    "role": [],
+    "height": 178,
+    "military": null,
+    "mbti": [
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167",
+      "3df223b1-8119-4252-98a0-491e91954de7"
+    ],
+    "bias": null,
+    "name": "Ravn"
+  },
+  "4cb3e04d-735f-4833-8581-c248ce519442": {
+    "group": [
+      "55262042-346d-4cf9-9b28-0eea23319016"
+    ],
+    "birthday": "1998-01-31",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "2cdfd6bc-1f01-40c1-b8f2-81d24734768e"
+    ],
+    "hyung": [],
+    "real name": "정우석",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 188.5,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Wooseok"
+  },
+  "7860aea0-b21d-4978-a208-9ce565d331f3": {
+    "group": [
+      "75535965-1fee-447c-bd3d-1f851b4aaec8"
+    ],
+    "birthday": "1998-10-13",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 10,
+    "zodiac": [
+      "e38725e0-dd49-4d86-88ba-70ebd535719c"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "배승민",
+    "role": [],
+    "height": null,
+    "military": null,
+    "mbti": [
+      "75f375a4-8a74-4b6d-92fd-135642b6b569"
+    ],
+    "position": [
+      "b82e7b29-9890-41d5-8739-892351ef935e"
+    ],
+    "bias": null,
+    "name": "Seungmin"
+  },
+  "9355eddf-bfb0-4ea6-9c35-a597a4d8617e": {
+    "group": [
+      "d50cc919-99c5-4f6e-8caf-78c0bf24bfe5"
+    ],
+    "birthday": "1990-01-05",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "양요섭",
+    "role": [],
+    "height": 168,
+    "military": "served",
+    "mbti": [],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Yoseob"
+  },
+  "1db0f43c-422e-4f4d-ba92-bfef0e7532d3": {
+    "group": [
+      "153405ff-c0e4-4f8d-98ec-b561353e735c"
+    ],
+    "birthday": "1998-11-07",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "72e4ef79-42f9-4e87-b92b-cabdef14f564"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "김홍중",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 172,
+    "military": null,
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "5d34ff22-1b67-4946-b905-087e48dc4765",
+      "3df223b1-8119-4252-98a0-491e91954de7",
+      "ddad7c9f-ea35-436f-8d62-26493a14a4db"
+    ],
+    "bias": null,
+    "name": "Hongjoong"
+  },
+  "1f8d4cbb-ea96-4be5-8403-ed1d37aa88e2": {
+    "group": [
+      "9f081361-4860-440b-ae0b-d20e77a39aa6"
+    ],
+    "birthday": "1995-12-30",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 1,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [],
+    "real name": "김태형",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 178.8,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "573e9b7c-a23c-4ddf-9fe9-81290c4c4063",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "V"
+  },
+  "d3921a9f-3c7d-4acb-84ce-e3e0fdf01299": {
+    "group": [
+      "82e7765a-2648-4cb7-8459-c53250d50e9d"
+    ],
+    "birthday": "1993-01-16",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "박성진",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 177,
+    "military": "served",
+    "mbti": [
+      "3e854884-42a2-4662-8995-dd03b84105ca"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3",
+      "2566bc25-4928-4d74-86b8-152c4608d528"
+    ],
+    "bias": "not by much",
+    "name": "Sungjin"
+  },
+  "96d285d9-8c19-41a6-a3a1-5a28653f2f88": {
+    "group": [
+      "eded9e0a-c62b-4dd5-b15c-841d63c3f8e9"
+    ],
+    "birthday": "1994-10-04",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "e38725e0-dd49-4d86-88ba-70ebd535719c"
+    ],
+    "hyung": [],
+    "real name": "정일훈",
+    "role": [],
+    "height": 173,
+    "military": "served",
+    "mbti": [
+      "6e35f934-f9ca-4b42-86d8-56ef42b3d5aa"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Ilhoon"
+  },
+  "2771e375-414f-4ba2-ab43-c2a5016ffb57": {
+    "group": [
+      "eded9e0a-c62b-4dd5-b15c-841d63c3f8e9"
+    ],
+    "birthday": "1990-11-22",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "f1c03d5f-bc07-4d9d-a253-22575f5007b1"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654",
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c"
+    ],
+    "real name": "서은광",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 170.5,
+    "military": "served",
+    "mbti": [
+      "8a67413f-4087-4ef0-8795-6c6b5f2a5691"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Eunkwang"
+  },
+  "6701f502-6d44-424b-9149-2f1e508194e1": {
+    "group": [
+      "13699531-c1d1-41a4-a820-e885e951af9e"
+    ],
+    "birthday": "1995-01-13",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "이승준",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 174,
+    "military": "serving",
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "573e9b7c-a23c-4ddf-9fe9-81290c4c4063",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af",
+      "5d34ff22-1b67-4946-b905-087e48dc4765"
+    ],
+    "bias": null,
+    "name": "J.US"
+  },
+  "f6662c70-6512-4a4a-99ee-1a7aee6214ac": {
+    "group": [
+      "b3760591-f87e-4322-909a-2700d70f3bed"
+    ],
+    "birthday": "1996-03-17",
+    "blood type": [],
+    "kprofiles": 4,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c"
+    ],
+    "real name": "이창선",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 179,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Changsun"
+  },
+  "97ecab20-a8ac-4248-8363-159352cf1318": {
+    "group": [
+      "72b95016-d773-4d6a-a3e4-70a1700cba53"
+    ],
+    "birthday": "1992-06-18",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "2ab9ad10-03c6-4d16-817a-364eb8febf8c"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654",
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c"
+    ],
+    "real name": "손현우",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 181,
+    "military": "serving",
+    "mbti": [
+      "3e854884-42a2-4662-8995-dd03b84105ca"
+    ],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "b82e7b29-9890-41d5-8739-892351ef935e"
+    ],
+    "bias": null,
+    "name": "Shownu"
+  },
+  "34f74599-541d-4fd4-8166-e12b490daf14": {
+    "group": [
+      "277ed537-59ee-472e-b6f8-0d34c01711ec"
+    ],
+    "birthday": "2000-04-01",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [],
+    "real name": "정우빈",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 180,
+    "military": null,
+    "mbti": [],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Woobin"
+  },
+  "6f4d8f99-59f0-4088-933b-21dace71de20": {
+    "group": [
+      "99bb2c32-48b7-4ff8-b12e-a8284b54ae01"
+    ],
+    "birthday": "2002-09-09",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [],
+    "real name": "손동표",
+    "role": [],
+    "height": 172,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "573e9b7c-a23c-4ddf-9fe9-81290c4c4063",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Son Dongpyo"
+  },
+  "426a6442-5559-414f-84a6-d523727bc518": {
+    "group": [
+      "98dcf69e-b65d-478d-9c12-829d501d04fd"
+    ],
+    "birthday": "1989-04-28",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "76994745-7cc2-409f-834a-27a61c94fe74"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "김성규",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 176,
+    "military": "served",
+    "mbti": [
+      "6bf9a03e-076c-4b4d-b987-626aa8ee3491"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Sungkyu"
+  },
+  "c8b86bea-0b0e-40d9-a1ed-6d79ececfcac": {
+    "group": [
+      "55262042-346d-4cf9-9b28-0eea23319016"
+    ],
+    "birthday": "1992-04-17",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
     ],
     "kprofiles": 8,
     "zodiac": [
-      "Sagittarius"
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "조진호",
+    "role": [],
+    "height": 168,
+    "military": "served",
+    "mbti": [
+      "6bf9a03e-076c-4b4d-b987-626aa8ee3491"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Jinho"
+  },
+  "62767dbe-623d-447e-b1f7-5c73e724ae9f": {
+    "group": [
+      "fd67aac4-fc8a-4cf4-b18e-b636cf9c0785"
+    ],
+    "birthday": "2000-10-10",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "e38725e0-dd49-4d86-88ba-70ebd535719c"
     ],
     "hyung": [],
-    "real name": "김도영",
+    "real name": "刘扬扬",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 173,
+    "military": "foreign",
+    "mbti": [
+      "4e738a36-d112-47b7-b676-e46135ba60cd"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Yangyang"
+  },
+  "b35857d3-93de-434a-9f04-8ef5e30fe4a6": {
+    "group": [
+      "4bcaf8c6-1878-41f1-8a3f-6854b95c2cfe"
+    ],
+    "birthday": "1996-03-15",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "박진우",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 169,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "573e9b7c-a23c-4ddf-9fe9-81290c4c4063"
+    ],
+    "bias": null,
+    "name": "Jinjin"
+  },
+  "1d8824ba-a2c8-4f30-beae-0d58f2033e12": {
+    "group": [
+      "95e28ea9-f35a-44db-9f8d-34804269112f"
+    ],
+    "birthday": "2002-12-08",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "f1c03d5f-bc07-4d9d-a253-22575f5007b1"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "박성훈",
+    "role": [],
+    "height": 178,
+    "military": null,
+    "mbti": [
+      "b63e4783-ad2e-4fee-ba8a-65fefc72681a"
+    ],
+    "position": [],
+    "bias": null,
+    "name": "Sunghoon"
+  },
+  "35e1b80f-b0d3-428e-ad90-99a76f350417": {
+    "group": [
+      "e3534330-3b4f-498c-b8d9-c41b57a101b0"
+    ],
+    "birthday": "2005-02-18",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 11,
+    "zodiac": [
+      "2cdfd6bc-1f01-40c1-b8f2-81d24734768e"
+    ],
+    "hyung": [],
+    "real name": "소정환",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 179.1,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Junghwan"
+  },
+  "47474329-e5b4-4851-a66f-5e2a51c12932": {
+    "group": [],
+    "birthday": "2002-07-14",
+    "blood type": [],
+    "kprofiles": null,
+    "zodiac": [
+      "c3f22ad2-c919-4c1f-a92c-20451b908710"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "김태래",
+    "role": [],
+    "height": 174,
+    "military": null,
+    "mbti": [
+      "c999f086-aa7f-48f1-b3a1-22d2dbedff04"
+    ],
+    "position": [],
+    "bias": null,
+    "name": "Kim Taerae"
+  },
+  "a6cdc5a8-38ac-4565-9fa3-683c7146ebdd": {
+    "group": [
+      "be682246-55ce-4078-91f5-c22e8ea2b737"
+    ],
+    "birthday": "2001-03-22",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [],
+    "real name": "함원진",
+    "role": [],
+    "height": 174,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "b82e7b29-9890-41d5-8739-892351ef935e",
+      "573e9b7c-a23c-4ddf-9fe9-81290c4c4063"
+    ],
+    "bias": null,
+    "name": "Wonjin"
+  },
+  "fe2d84be-e4f8-4e1a-953b-948d4fbe7fae": {
+    "group": [
+      "f5e63955-a820-42bc-b98b-f7310fd09ba0"
+    ],
+    "birthday": "2000-04-17",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "구본혁",
+    "role": [],
+    "height": 175,
+    "military": null,
+    "mbti": [
+      "8a67413f-4087-4ef0-8795-6c6b5f2a5691"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Hyuk"
+  },
+  "22250bc8-205d-481e-8721-0812825136f1": {
+    "group": [
+      "15b1eddb-0e65-4d2e-9830-952447a0bdaf"
+    ],
+    "birthday": "1992-09-21",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 9,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "김종대",
+    "role": [],
+    "height": 172.5,
+    "military": "served",
+    "mbti": [
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Chen"
+  },
+  "e8f42461-987c-4a4f-bdd8-f82e95b9bc75": {
+    "group": [
+      "9c701d3e-de33-41a7-bcab-507ecdfdec6b"
+    ],
+    "birthday": "1997-05-02",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "76994745-7cc2-409f-834a-27a61c94fe74"
+    ],
+    "hyung": [],
+    "real name": "กันต์พิมุกต์ ภูวกุล",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 178,
+    "military": "foreign",
+    "mbti": [
+      "3472a508-36f9-402a-a6d4-ea16642cd529"
+    ],
+    "position": [
+      "b20eda2a-9f83-4684-8a0e-b737cdb23510"
+    ],
+    "bias": null,
+    "name": "Bambam"
+  },
+  "22c7923d-dc7d-4f22-baa3-cce4fd892a68": {
+    "group": [
+      "ff50caef-6478-46a9-9ef5-5c2179b9af98"
+    ],
+    "birthday": "1986-04-04",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [],
+    "real name": "이혁재",
+    "role": [],
+    "height": 174,
+    "military": "served",
+    "mbti": [],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Eunhyuk"
+  },
+  "3e24765e-06d4-4e82-88fc-be8257254dab": {
+    "group": [
+      "b303fe4b-8998-4dd0-b440-c8c06fc669ca"
+    ],
+    "birthday": "2001-09-23",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "e38725e0-dd49-4d86-88ba-70ebd535719c"
+    ],
+    "hyung": [],
+    "real name": "賴冠霖",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 183,
+    "military": "foreign",
+    "mbti": [],
+    "position": [
+      "b7742fb9-6b0f-48b0-be2f-2170d968ecf6"
+    ],
+    "bias": null,
+    "name": "Lai Kuanlin"
+  },
+  "8909f112-f8be-4143-9c47-1c1522735b47": {
+    "group": [
+      "914069a3-a8fb-4bf8-b77a-5adfc8faed56"
+    ],
+    "birthday": "1999-07-31",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "5c581c56-4f0c-44e5-bd54-19642c8e04aa"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "양희찬",
+    "role": [],
+    "height": 176,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "99e3d24f-190f-456d-a4af-245729d3f0b6",
+      "5d34ff22-1b67-4946-b905-087e48dc4765"
+    ],
+    "bias": null,
+    "name": "Heechan"
+  },
+  "1cbb3c20-1168-47dc-84dc-a39777146de9": {
+    "group": [
+      "fd67aac4-fc8a-4cf4-b18e-b636cf9c0785"
+    ],
+    "birthday": "1996-01-01",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654",
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c"
+    ],
+    "real name": "錢錕",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 176,
+    "military": "foreign",
+    "mbti": [
+      "75f375a4-8a74-4b6d-92fd-135642b6b569"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3",
+      "b20eda2a-9f83-4684-8a0e-b737cdb23510"
+    ],
+    "bias": null,
+    "name": "Kun"
+  },
+  "7fbee73e-f5bf-4b4e-9062-965e88285558": {
+    "group": [
+      "f5e63955-a820-42bc-b98b-f7310fd09ba0"
+    ],
+    "birthday": "2001-04-23",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "76994745-7cc2-409f-834a-27a61c94fe74"
+    ],
+    "hyung": [],
+    "real name": "송재원",
+    "role": [],
+    "height": 182,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "3df223b1-8119-4252-98a0-491e91954de7"
+    ],
+    "bias": null,
+    "name": "Hwarang"
+  },
+  "8c0e5311-9891-414c-b1a7-b8090c0a8a42": {
+    "group": [
+      "3a651b17-ae8b-42f7-b09b-6d32eac244a2"
+    ],
+    "birthday": "1997-11-12",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "72e4ef79-42f9-4e87-b92b-cabdef14f564"
+    ],
+    "hyung": [],
+    "real name": "최병찬",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 185,
+    "military": null,
+    "mbti": [
+      "8a67413f-4087-4ef0-8795-6c6b5f2a5691"
+    ],
+    "position": [
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Byungchan"
+  },
+  "9c59cb89-ae4a-4703-9bd3-793aba135a6c": {
+    "group": [
+      "3a651b17-ae8b-42f7-b09b-6d32eac244a2"
+    ],
+    "birthday": "1995-12-24",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "f1c03d5f-bc07-4d9d-a253-22575f5007b1"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "허찬",
     "role": [],
     "height": 177,
     "military": null,
     "mbti": [
-      "ENTJ"
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b"
     ],
     "position": [
-      "Main Dancer",
-      "Vocal"
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
     ],
     "bias": null,
-    "name": "Doyoung"
+    "name": "Chan"
+  },
+  "b73426b6-8a0c-4adc-b289-a946fda56a07": {
+    "group": [
+      "e3534330-3b4f-498c-b8d9-c41b57a101b0"
+    ],
+    "birthday": "1999-04-21",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "76994745-7cc2-409f-834a-27a61c94fe74"
+    ],
+    "hyung": [
+      "82ab29c5-cdba-43d2-a2b9-6328ae67877c",
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "최현석",
+    "role": [
+      "2425043f-53e5-49d8-903a-5cfa506b2876"
+    ],
+    "height": 171,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "6683c93a-4478-45ff-a10a-df05006f2700"
+    ],
+    "bias": null,
+    "name": "Hyunsuk"
+  },
+  "0f29c46c-593e-406b-b361-befd2210371c": {
+    "group": [
+      "b0bfe987-aa18-416a-a506-34df58781019"
+    ],
+    "birthday": "1995-10-04",
+    "blood type": [
+      "059e042b-71f7-4aa8-bb05-b5463dd78574"
+    ],
+    "kprofiles": 7,
+    "zodiac": [
+      "e38725e0-dd49-4d86-88ba-70ebd535719c"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "윤정한",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 178,
+    "military": null,
+    "mbti": [
+      "3e854884-42a2-4662-8995-dd03b84105ca"
+    ],
+    "position": [
+      "b82e7b29-9890-41d5-8739-892351ef935e"
+    ],
+    "bias": null,
+    "name": "Jeonghan"
+  },
+  "4e7ee724-68dc-4ebb-8d08-e5cda64cfc58": {
+    "group": [
+      "75535965-1fee-447c-bd3d-1f851b4aaec8"
+    ],
+    "birthday": "1999-07-31",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "5c581c56-4f0c-44e5-bd54-19642c8e04aa"
+    ],
+    "hyung": [],
+    "real name": "홍주찬",
+    "role": [],
+    "height": 175,
+    "military": null,
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Joochan"
+  },
+  "aebabf3f-943e-45d4-b34f-34b9c7148c72": {
+    "group": [
+      "55262042-346d-4cf9-9b28-0eea23319016"
+    ],
+    "birthday": "1994-04-17",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 6,
+    "zodiac": [
+      "3e2aca86-d2b1-4bfa-985d-e35e9821c64d"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "양홍석",
+    "role": [],
+    "height": 178,
+    "military": "serving",
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Hongseok"
+  },
+  "2aff84a2-4a81-453c-a30e-4ca3316dbc3e": {
+    "group": [
+      "287197b0-8c2b-4393-853d-e94ff2145e11",
+      "b303fe4b-8998-4dd0-b440-c8c06fc669ca"
+    ],
+    "birthday": "1999-11-02",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 2,
+    "zodiac": [
+      "72e4ef79-42f9-4e87-b92b-cabdef14f564"
+    ],
+    "hyung": [],
+    "real name": "박우진",
+    "role": [],
+    "height": 176,
+    "military": null,
+    "mbti": [
+      "3472a508-36f9-402a-a6d4-ea16642cd529"
+    ],
+    "position": [
+      "83951618-182e-47c6-b834-2d31b008a1bf",
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Woojin"
+  },
+  "2d4deeba-9cb0-475e-a109-cf934d4387d0": {
+    "group": [
+      "55262042-346d-4cf9-9b28-0eea23319016"
+    ],
+    "birthday": "1995-12-11",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 10,
+    "zodiac": [
+      "f1c03d5f-bc07-4d9d-a253-22575f5007b1"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "고신원",
+    "role": [],
+    "height": 184,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Shinwon"
+  },
+  "2d5165b9-e643-4b74-9ec7-6d6b030022bf": {
+    "group": [
+      "22e381bd-4edc-47c4-b4d3-6e1e058a370c"
+    ],
+    "birthday": "1995-07-21",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "c3f22ad2-c919-4c1f-a92c-20451b908710"
+    ],
+    "hyung": [],
+    "real name": "강동호",
+    "role": [],
+    "height": 175,
+    "military": null,
+    "mbti": [
+      "9781ae3d-5b44-4ff8-a12f-b402d59d1397"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": "not by much",
+    "name": "Baekho"
+  },
+  "e3ab9ea9-3d63-4012-a6f9-f572f7b2d0ff": {
+    "group": [
+      "be682246-55ce-4078-91f5-c22e8ea2b737"
+    ],
+    "birthday": "2003-08-01",
+    "blood type": [
+      "47de64fe-8ed4-46e7-9e5e-834b2ec42197"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "5c581c56-4f0c-44e5-bd54-19642c8e04aa"
+    ],
+    "hyung": [],
+    "real name": "안성민",
+    "role": [
+      "91fdf0ad-890e-4ca9-9a7e-a24c35f8c79c"
+    ],
+    "height": 170,
+    "military": null,
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "910b816d-0ba9-46bc-9bf2-d34abdf71167"
+    ],
+    "bias": null,
+    "name": "Seongmin"
+  },
+  "11cc2f95-98ef-4e50-9416-543bde1a4b72": {
+    "group": [
+      "b0bfe987-aa18-416a-a506-34df58781019"
+    ],
+    "birthday": "1995-12-30",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 5,
+    "zodiac": [
+      "0b7d0185-6acc-4e02-afa5-4a5566fe55ec"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "Joshua Hong",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 177,
+    "military": "foreign",
+    "mbti": [
+      "da1e8770-bcfd-4d9b-8f68-d1f5ad115c1b"
+    ],
+    "position": [
+      "b82e7b29-9890-41d5-8739-892351ef935e"
+    ],
+    "bias": "wreck",
+    "name": "Joshua"
+  },
+  "562cfc1f-e225-4514-ba3e-a88b890e1bc4": {
+    "group": [
+      "b303fe4b-8998-4dd0-b440-c8c06fc669ca"
+    ],
+    "birthday": "1995-08-25",
+    "blood type": [
+      "f79270c7-0503-4539-bdd0-e93d7481b8cd"
+    ],
+    "kprofiles": 4,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [
+      "69096817-f68f-414d-bd5c-4e3ed26f4654"
+    ],
+    "real name": "옹성우",
+    "role": [],
+    "height": 179,
+    "military": "serving",
+    "mbti": [],
+    "position": [
+      "6683c93a-4478-45ff-a10a-df05006f2700",
+      "b82e7b29-9890-41d5-8739-892351ef935e"
+    ],
+    "bias": null,
+    "name": "Ong Seungwoo"
+  },
+  "75210285-395f-4587-b0e5-8b0f6a2efa4b": {
+    "group": [
+      "4b61965a-35e6-4d76-b38f-d22b26983008"
+    ],
+    "birthday": "1998-02-23",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 3,
+    "zodiac": [
+      "2e0b0321-1eed-4db4-bdc9-f2436f2df39a"
+    ],
+    "hyung": [],
+    "real name": "Kevin Moon",
+    "role": [],
+    "height": 176,
+    "military": "foreign",
+    "mbti": [
+      "12148bf8-cd38-4636-8afa-56ef184aab1a"
+    ],
+    "position": [
+      "556e1d30-c8af-429e-b50b-41e50a4007f3"
+    ],
+    "bias": null,
+    "name": "Kevin"
+  },
+  "b3d51ac5-5d88-44ac-93bf-62c2c439df0e": {
+    "group": [
+      "be682246-55ce-4078-91f5-c22e8ea2b737",
+      "99bb2c32-48b7-4ff8-b12e-a8284b54ae01"
+    ],
+    "birthday": "2002-09-17",
+    "blood type": [
+      "b8cac91c-a091-4ca6-ba7d-7a34b4a6eb7a"
+    ],
+    "kprofiles": 1,
+    "zodiac": [
+      "87f7ed56-5bc6-4581-a618-ba9c911f98b5"
+    ],
+    "hyung": [],
+    "real name": "강민희",
+    "role": [
+      "1717f862-e48c-4f05-8ae2-847902d71193"
+    ],
+    "height": 190,
+    "military": null,
+    "mbti": [
+      "8a67413f-4087-4ef0-8795-6c6b5f2a5691"
+    ],
+    "position": [
+      "b82e7b29-9890-41d5-8739-892351ef935e",
+      "23a392e3-2ebc-4173-a935-6e2c5ffd86af"
+    ],
+    "bias": null,
+    "name": "Minhee"
   }
 }
