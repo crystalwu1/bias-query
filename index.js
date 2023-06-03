@@ -1,81 +1,42 @@
-import { Client } from "@notionhq/client"
-import { writeFile, write } from 'node:fs';
+import { getDatabaseData, writeDatabaseJSON } from "./notion-data.js"
 
-const notion = new Client({ auth: process.env.NOTION_KEY })
-
-async function getMemberData(pageId) {
-  const page = await notion.pages.retrieve({ page_id: pageId });
-  // console.log(page);
-  let attributes = {}
-  for await (const [propertyName, propertyValue] of Object.entries(page.properties)) {
-    switch (propertyValue.type) {
-      case "select":
-        attributes[propertyName] = propertyValue.select ? propertyValue.select.name : null
-        break;
-      case "date":
-        attributes[propertyName] = propertyValue.date.start
-        break;
-      case "rich_text":
-        attributes[propertyName] = propertyValue.rich_text[0].plain_text
-        break;
-      case "title":
-        attributes[propertyName] = propertyValue.title[0].plain_text
-        break;
-      case "number":
-        attributes[propertyName] = propertyValue.number
-        break;
-      default:
-        const relationPageIds = propertyValue.relation.map((x) => x.id)
-        // console.log(relationPageIds)
-        let relations = []
-        for await (const x of relationPageIds) {
-          // const propertyName = await notion.pages.properties.retrieve({ page_id: x, property_id: "title" });
-          // relations.push(propertyName.results[0].title.plain_text)
-          relations.push(x)
-        };
-        attributes[propertyName] = relations
+const membersQuery = {
+  database_id: "958b2fb7926f4e78ac8284ae209b3794",
+  filter: {
+    property: 'name',
+    rich_text: {
+      is_not_empty: true
     }
-  };
-  return attributes
+  },
+  filter: {
+    property: 'birthday',
+    date: {
+      is_not_empty: true
+    }
+  },
 }
 
-async function getMembers() {
+const groupQuery = {
+  database_id: "cebbb00f932d49eb93c1dfd323133706",
+}
 
-  const memberDatabaseId = 'ef165c7570454c178e1490e4753db782';
-  const memberDatabase = await notion.databases.query({
-    database_id: memberDatabaseId,
-    filter: {
-      property: 'name',
-      rich_text: {
-        is_not_empty: true
-      }
-    },
-    filter: {
-      property: 'birthday',
-      date: {
-        is_not_empty: true
-      }
-    },
-  });
+const roleQuery = {
+  database_id: "022f14f316cc4877ab65186b3b0e4c4f",
+}
 
-  let membersJSON = {}
-  for await (const page of memberDatabase.results) {
-    const member = await getMemberData(page.id)
-    // console.log(member)
-    membersJSON[page.id] = member
-  };
-  return membersJSON
-};
+const positionQuery = {
+  database_id: "c7050adf0d37497b904013c4b921a54d",
+}
 
-const membersWrite = getMembers();
-membersWrite.then((data) => {
-  console.log(data);
-  writeFile('members.json', JSON.stringify(data, null, 2), (error) => {
-    if (error) {
-      console.log('An error has occurred ', error);
-      return;
-    }
-    console.log('Data written successfully to disk');
-  });
-});
+const zodiacQuery = {
+  database_id: "05a00ed241b54085bca41c0aea5efefc",
+}
 
+// writeDatabaseJSON(membersQuery, "members.json")
+// writeDatabaseJSON(groupQuery, "groups.json")
+// writeDatabaseJSON(roleQuery, "roles.json")
+// writeDatabaseJSON(positionQuery, "positions.json")
+// // writeDatabaseJSON(hyungQuery, "hyung.json")
+// // writeDatabaseJSON(mbtiQuery, "mbti.json")
+// // writeDatabaseJSON(bloodQuery, "blood.json")
+// writeDatabaseJSON(zodiacQuery, "zodiac.json")
